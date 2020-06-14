@@ -1,0 +1,495 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:18:1-42:12
+MERGED from [androidx.databinding:databinding-adapters:3.6.3] /Users/kicia/.gradle/caches/transforms-2/files-2.1/77016ff3a189fdb8d88a08e23269b498/databinding-adapters-3.6.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.6.3] /Users/kicia/.gradle/caches/transforms-2/files-2.1/4a584c4dcf66699b068984eb33c9b981/databinding-runtime-3.6.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/545abfc1193c08f883226aff624b9faf/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/7ddcf565525ce2066edef485ed70f1a6/navigation-ui-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/639943c4cca13318f8d1f0f1b58948e3/navigation-ui-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/cdfeb228638d326e574056d7d54a8b58/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/6cbcfae22425c23253ea9f88a8a197ad/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/60041b6ddefc91eaee89491b0784b400/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/388b23dbce17e555b0a51147a1767fc8/jetified-core-ktx-1.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/kicia/.gradle/caches/transforms-2/files-2.1/8235230c5d1be520658a56b0ae1c53e1/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/affa3ecfa0849c4f93fefedb3e0ffd90/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime-ktx:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/0ee8fef7f6abb8bf74088cbc143ab997/work-runtime-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:17:1-123:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/f95269a897969a0b305af6b080926780/lifecycle-extensions-2.2.0-alpha01/AndroidManifest.xml:17:1-25:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/kicia/.gradle/caches/transforms-2/files-2.1/93543d63cc44ee005404eb0f10338221/jetified-timber-4.7.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/43baeb2ff34f93914989939cf36aa476/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/kicia/.gradle/caches/transforms-2/files-2.1/b1f4a397ab5c05b358913dc88b0974a2/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.databinding:viewbinding:3.6.3] /Users/kicia/.gradle/caches/transforms-2/files-2.1/2a5bf58e8959c1605169deb49e04e29c/jetified-viewbinding-3.6.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/bf2202bf5911d100482df246f60349a8/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/6e4146a1f919bdfb2a195d07617e1c44/navigation-fragment-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/c0c5232532889576aeb739105f2590d8/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/acf8f51ea04b469b283656a16ce7bddd/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/75bae5eae790f1fedef41bc91180eeb6/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/277dedf8f71a389a9b79993787c25fa8/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/296eaa221660c00c4f392b44367e0458/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/29095097891166b5c14c74b593ae2366/navigation-runtime-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/cd3614e9953df941f4d91b76560b53ce/navigation-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/f0e54650367e09f7e243309af30c1180/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/cd81eebf2b9491acb74e8f103a606bd8/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/ada880bfddd2bcc739a7ecfe7dc54cc9/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/7ac5b7a21b5538751d59de0925d60650/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/eb71fb4c18eb48805c89934e1c827bb5/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/5f0fb5f02a2640fce1eff34d449c6449/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/a17ee1dc8cdddebaf648b6e00869bdbb/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/0d7beca732ec4c259869eb3a13be860f/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/3b5f82b4dab91188819182ec24c23c6b/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d643ab2e0872c2ba379ab48d0c4c5c80/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/c2ad84af8b86bd367f853f72bf7e8c0b/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/b0a70945095d7c6605dabf04438a5c1d/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/a3b97c54d179210dc1e6e5986326316f/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/8824cc531521a1bddaf5f8db9dfa7101/navigation-common-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/f3521b4467b92ca0baf25c2ac9cde0e2/navigation-common-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/46d38fd139ad4297641418a7bd0b7352/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/a44e6c9459bd80818a5e877a29d077eb/jetified-lifecycle-process-2.2.0-alpha01/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/6142582ca5daf24d128217452e44a32a/jetified-lifecycle-service-2.2.0-alpha01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/cb8dc60d280500f76a84c749d373cad2/lifecycle-runtime-2.2.0-alpha01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/068a078b9c402c9df6aabffb26ef1c9f/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/0dd67c6dc3612fc4610cf87b6cc6de2e/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/eb0c2829d58c6afb863c60923a77cedb/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/3cad6fc5ac6be167a091a2849b9fd034/lifecycle-livedata-2.2.0-alpha01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/07f69a6e8bf696f64e0b9b4d8c925edf/lifecycle-livedata-core-2.2.0-alpha01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0-beta01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/a2d108ff6ad4150786c7f58e472dcc71/core-runtime-2.1.0-beta01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/7f7005cd1a80463162024da97a40f2d4/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/494bc236aebe339ce98ad1bcbb6d02e5/lifecycle-viewmodel-2.2.0-alpha01/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/66d328a94ca9c481f60fe167a93d807e/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/235d5f70a94deaee30edb0e2d1aab5c2/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/kicia/.gradle/caches/transforms-2/files-2.1/fdf8b081c0e730f98f04cbaceb63b55c/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/kicia/.gradle/caches/transforms-2/files-2.1/916baa561ede713bf18c95d62e876c0d/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/37c8c3d849aabf5bd6c423cf4d34b760/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/36065e3d31acacc57a975b85adf56d38/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/47f5558c7573f3d35323f2ec3966836b/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/3be795b3089a451f4099d9e3213af26a/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:18:1-42:12
+	package
+		ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:20:5-48
+		INJECTED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:18:1-42:12
+		INJECTED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:19:5-51
+	android:versionCode
+		INJECTED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:18:1-42:12
+		INJECTED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:22:22-64
+application
+ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:24:5-40:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/cdfeb228638d326e574056d7d54a8b58/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/cdfeb228638d326e574056d7d54a8b58/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/kicia/.gradle/caches/transforms-2/files-2.1/8235230c5d1be520658a56b0ae1c53e1/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/kicia/.gradle/caches/transforms-2/files-2.1/8235230c5d1be520658a56b0ae1c53e1/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:27:5-121:19
+MERGED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:27:5-121:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/f95269a897969a0b305af6b080926780/lifecycle-extensions-2.2.0-alpha01/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/f95269a897969a0b305af6b080926780/lifecycle-extensions-2.2.0-alpha01/AndroidManifest.xml:22:5-23:19
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/kicia/.gradle/caches/transforms-2/files-2.1/93543d63cc44ee005404eb0f10338221/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/kicia/.gradle/caches/transforms-2/files-2.1/93543d63cc44ee005404eb0f10338221/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/43baeb2ff34f93914989939cf36aa476/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/43baeb2ff34f93914989939cf36aa476/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/kicia/.gradle/caches/transforms-2/files-2.1/b1f4a397ab5c05b358913dc88b0974a2/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/kicia/.gradle/caches/transforms-2/files-2.1/b1f4a397ab5c05b358913dc88b0974a2/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.core:core:1.2.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/46d38fd139ad4297641418a7bd0b7352/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/46d38fd139ad4297641418a7bd0b7352/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/a44e6c9459bd80818a5e877a29d077eb/jetified-lifecycle-process-2.2.0-alpha01/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/a44e6c9459bd80818a5e877a29d077eb/jetified-lifecycle-process-2.2.0-alpha01/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/068a078b9c402c9df6aabffb26ef1c9f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/068a078b9c402c9df6aabffb26ef1c9f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/66d328a94ca9c481f60fe167a93d807e/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/66d328a94ca9c481f60fe167a93d807e/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/46d38fd139ad4297641418a7bd0b7352/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:30:9-35
+	android:label
+		ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:28:9-41
+	tools:ignore
+		ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:32:9-48
+	android:roundIcon
+		ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:29:9-54
+	android:icon
+		ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:27:9-43
+	android:allowBackup
+		ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:31:9-40
+	android:name
+		ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:25:9-43
+activity#com.example.android.devbyteviewer.ui.DevByteActivity
+ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:33:9-39:20
+	android:name
+		ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:33:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.6.3] /Users/kicia/.gradle/caches/transforms-2/files-2.1/77016ff3a189fdb8d88a08e23269b498/databinding-adapters-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.6.3] /Users/kicia/.gradle/caches/transforms-2/files-2.1/77016ff3a189fdb8d88a08e23269b498/databinding-adapters-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.3] /Users/kicia/.gradle/caches/transforms-2/files-2.1/4a584c4dcf66699b068984eb33c9b981/databinding-runtime-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.3] /Users/kicia/.gradle/caches/transforms-2/files-2.1/4a584c4dcf66699b068984eb33c9b981/databinding-runtime-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/545abfc1193c08f883226aff624b9faf/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/545abfc1193c08f883226aff624b9faf/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/7ddcf565525ce2066edef485ed70f1a6/navigation-ui-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/7ddcf565525ce2066edef485ed70f1a6/navigation-ui-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/639943c4cca13318f8d1f0f1b58948e3/navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/639943c4cca13318f8d1f0f1b58948e3/navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/cdfeb228638d326e574056d7d54a8b58/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/cdfeb228638d326e574056d7d54a8b58/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/6cbcfae22425c23253ea9f88a8a197ad/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/6cbcfae22425c23253ea9f88a8a197ad/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/60041b6ddefc91eaee89491b0784b400/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/60041b6ddefc91eaee89491b0784b400/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/388b23dbce17e555b0a51147a1767fc8/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/388b23dbce17e555b0a51147a1767fc8/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/kicia/.gradle/caches/transforms-2/files-2.1/8235230c5d1be520658a56b0ae1c53e1/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/kicia/.gradle/caches/transforms-2/files-2.1/8235230c5d1be520658a56b0ae1c53e1/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/affa3ecfa0849c4f93fefedb3e0ffd90/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/affa3ecfa0849c4f93fefedb3e0ffd90/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime-ktx:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/0ee8fef7f6abb8bf74088cbc143ab997/work-runtime-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime-ktx:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/0ee8fef7f6abb8bf74088cbc143ab997/work-runtime-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/f95269a897969a0b305af6b080926780/lifecycle-extensions-2.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/f95269a897969a0b305af6b080926780/lifecycle-extensions-2.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/kicia/.gradle/caches/transforms-2/files-2.1/93543d63cc44ee005404eb0f10338221/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/kicia/.gradle/caches/transforms-2/files-2.1/93543d63cc44ee005404eb0f10338221/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/43baeb2ff34f93914989939cf36aa476/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/43baeb2ff34f93914989939cf36aa476/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/kicia/.gradle/caches/transforms-2/files-2.1/b1f4a397ab5c05b358913dc88b0974a2/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/kicia/.gradle/caches/transforms-2/files-2.1/b1f4a397ab5c05b358913dc88b0974a2/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:3.6.3] /Users/kicia/.gradle/caches/transforms-2/files-2.1/2a5bf58e8959c1605169deb49e04e29c/jetified-viewbinding-3.6.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:3.6.3] /Users/kicia/.gradle/caches/transforms-2/files-2.1/2a5bf58e8959c1605169deb49e04e29c/jetified-viewbinding-3.6.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/bf2202bf5911d100482df246f60349a8/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/bf2202bf5911d100482df246f60349a8/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/6e4146a1f919bdfb2a195d07617e1c44/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/6e4146a1f919bdfb2a195d07617e1c44/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/c0c5232532889576aeb739105f2590d8/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/c0c5232532889576aeb739105f2590d8/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/acf8f51ea04b469b283656a16ce7bddd/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/acf8f51ea04b469b283656a16ce7bddd/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/75bae5eae790f1fedef41bc91180eeb6/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/75bae5eae790f1fedef41bc91180eeb6/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/277dedf8f71a389a9b79993787c25fa8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/277dedf8f71a389a9b79993787c25fa8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/296eaa221660c00c4f392b44367e0458/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/296eaa221660c00c4f392b44367e0458/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/29095097891166b5c14c74b593ae2366/navigation-runtime-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/29095097891166b5c14c74b593ae2366/navigation-runtime-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/cd3614e9953df941f4d91b76560b53ce/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/cd3614e9953df941f4d91b76560b53ce/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/f0e54650367e09f7e243309af30c1180/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/f0e54650367e09f7e243309af30c1180/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/cd81eebf2b9491acb74e8f103a606bd8/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/cd81eebf2b9491acb74e8f103a606bd8/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/ada880bfddd2bcc739a7ecfe7dc54cc9/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/ada880bfddd2bcc739a7ecfe7dc54cc9/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/7ac5b7a21b5538751d59de0925d60650/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/7ac5b7a21b5538751d59de0925d60650/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/eb71fb4c18eb48805c89934e1c827bb5/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/eb71fb4c18eb48805c89934e1c827bb5/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/5f0fb5f02a2640fce1eff34d449c6449/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/5f0fb5f02a2640fce1eff34d449c6449/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/a17ee1dc8cdddebaf648b6e00869bdbb/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/a17ee1dc8cdddebaf648b6e00869bdbb/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/0d7beca732ec4c259869eb3a13be860f/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/0d7beca732ec4c259869eb3a13be860f/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/3b5f82b4dab91188819182ec24c23c6b/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/3b5f82b4dab91188819182ec24c23c6b/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d643ab2e0872c2ba379ab48d0c4c5c80/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d643ab2e0872c2ba379ab48d0c4c5c80/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/c2ad84af8b86bd367f853f72bf7e8c0b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/c2ad84af8b86bd367f853f72bf7e8c0b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/b0a70945095d7c6605dabf04438a5c1d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/b0a70945095d7c6605dabf04438a5c1d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/a3b97c54d179210dc1e6e5986326316f/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/a3b97c54d179210dc1e6e5986326316f/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/8824cc531521a1bddaf5f8db9dfa7101/navigation-common-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/8824cc531521a1bddaf5f8db9dfa7101/navigation-common-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/f3521b4467b92ca0baf25c2ac9cde0e2/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/f3521b4467b92ca0baf25c2ac9cde0e2/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/46d38fd139ad4297641418a7bd0b7352/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/46d38fd139ad4297641418a7bd0b7352/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/a44e6c9459bd80818a5e877a29d077eb/jetified-lifecycle-process-2.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/a44e6c9459bd80818a5e877a29d077eb/jetified-lifecycle-process-2.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/6142582ca5daf24d128217452e44a32a/jetified-lifecycle-service-2.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/6142582ca5daf24d128217452e44a32a/jetified-lifecycle-service-2.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/cb8dc60d280500f76a84c749d373cad2/lifecycle-runtime-2.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/cb8dc60d280500f76a84c749d373cad2/lifecycle-runtime-2.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/068a078b9c402c9df6aabffb26ef1c9f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/068a078b9c402c9df6aabffb26ef1c9f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/0dd67c6dc3612fc4610cf87b6cc6de2e/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/0dd67c6dc3612fc4610cf87b6cc6de2e/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/eb0c2829d58c6afb863c60923a77cedb/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/eb0c2829d58c6afb863c60923a77cedb/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/3cad6fc5ac6be167a091a2849b9fd034/lifecycle-livedata-2.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/3cad6fc5ac6be167a091a2849b9fd034/lifecycle-livedata-2.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/07f69a6e8bf696f64e0b9b4d8c925edf/lifecycle-livedata-core-2.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/07f69a6e8bf696f64e0b9b4d8c925edf/lifecycle-livedata-core-2.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0-beta01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/a2d108ff6ad4150786c7f58e472dcc71/core-runtime-2.1.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0-beta01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/a2d108ff6ad4150786c7f58e472dcc71/core-runtime-2.1.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/7f7005cd1a80463162024da97a40f2d4/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/7f7005cd1a80463162024da97a40f2d4/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/494bc236aebe339ce98ad1bcbb6d02e5/lifecycle-viewmodel-2.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/494bc236aebe339ce98ad1bcbb6d02e5/lifecycle-viewmodel-2.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/66d328a94ca9c481f60fe167a93d807e/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/66d328a94ca9c481f60fe167a93d807e/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/235d5f70a94deaee30edb0e2d1aab5c2/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/235d5f70a94deaee30edb0e2d1aab5c2/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/kicia/.gradle/caches/transforms-2/files-2.1/fdf8b081c0e730f98f04cbaceb63b55c/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/kicia/.gradle/caches/transforms-2/files-2.1/fdf8b081c0e730f98f04cbaceb63b55c/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/kicia/.gradle/caches/transforms-2/files-2.1/916baa561ede713bf18c95d62e876c0d/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/kicia/.gradle/caches/transforms-2/files-2.1/916baa561ede713bf18c95d62e876c0d/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/37c8c3d849aabf5bd6c423cf4d34b760/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/37c8c3d849aabf5bd6c423cf4d34b760/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/36065e3d31acacc57a975b85adf56d38/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/36065e3d31acacc57a975b85adf56d38/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/47f5558c7573f3d35323f2ec3966836b/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/47f5558c7573f3d35323f2ec3966836b/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/3be795b3089a451f4099d9e3213af26a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/3be795b3089a451f4099d9e3213af26a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kicia/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DevBytes-starter/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:23:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:25:22-78
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:28:9-34:35
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:30:13-68
+	android:multiprocess
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:33:13-40
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:32:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:29:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:36:9-41:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:39:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:40:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:41:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:37:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:42:9-48:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:45:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:46:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:47:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:48:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:43:13-84
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:50:9-55:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:53:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:54:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:55:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:52:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:51:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:56:9-66:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:59:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:60:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:61:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:58:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:57:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:62:13-65:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:63:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:63:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:64:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:64:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:68:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:73:13-76:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:74:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:74:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:75:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:75:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:84:13-87:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:85:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:85:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:86:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:86:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:89:9-98:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:90:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:95:13-97:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:96:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:96:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:99:9-110:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:102:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:103:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:104:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:101:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:100:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:105:13-109:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:106:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:106:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:107:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:107:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:108:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:108:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:111:9-120:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:114:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:115:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:116:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:113:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:112:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:117:13-119:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:118:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /Users/kicia/.gradle/caches/transforms-2/files-2.1/d2c7916f339f88296feb99fd0f988c42/work-runtime-2.0.0/AndroidManifest.xml:118:25-95
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] /Users/kicia/.gradle/caches/transforms-2/files-2.1/b1f4a397ab5c05b358913dc88b0974a2/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/kicia/.gradle/caches/transforms-2/files-2.1/b1f4a397ab5c05b358913dc88b0974a2/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/kicia/.gradle/caches/transforms-2/files-2.1/b1f4a397ab5c05b358913dc88b0974a2/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/kicia/.gradle/caches/transforms-2/files-2.1/b1f4a397ab5c05b358913dc88b0974a2/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/a44e6c9459bd80818a5e877a29d077eb/jetified-lifecycle-process-2.2.0-alpha01/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/a44e6c9459bd80818a5e877a29d077eb/jetified-lifecycle-process-2.2.0-alpha01/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/a44e6c9459bd80818a5e877a29d077eb/jetified-lifecycle-process-2.2.0-alpha01/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/a44e6c9459bd80818a5e877a29d077eb/jetified-lifecycle-process-2.2.0-alpha01/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] /Users/kicia/.gradle/caches/transforms-2/files-2.1/a44e6c9459bd80818a5e877a29d077eb/jetified-lifecycle-process-2.2.0-alpha01/AndroidManifest.xml:24:13-79
